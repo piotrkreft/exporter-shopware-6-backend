@@ -8,7 +8,7 @@
         "sort-packages": true
     },
     "require": {
-        "php": "^7.4",
+        "php": "^7.4|^8.0",
         "ergonode/channel": "^1.0.0",
         "ergonode/product-collection": "^1.0.0",
         "guzzlehttp/guzzle": "^6.3"
